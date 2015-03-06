@@ -1,0 +1,18 @@
+
+/* Class = "IBUITextField"; placeholder = "recipient"; ObjectID = "4Uv-GO-rJ4"; */
+"4Uv-GO-rJ4.placeholder" = "recipient";
+
+/* Class = "IBUINavigationItem"; title = "Bo the dog"; ObjectID = "5AQ-B9-X7h"; */
+"5AQ-B9-X7h.title" = "Bo the dog";
+
+/* Class = "IBUIBarButtonItem"; title = "Message"; ObjectID = "dpI-nw-39D"; */
+"dpI-nw-39D.title" = "Message";
+
+/* Class = "IBUIButton"; normalTitle = "Send"; ObjectID = "hK2-HI-BY5"; */
+"hK2-HI-BY5.normalTitle" = "Send";
+
+/* Class = "IBUITextField"; placeholder = "talk to me"; ObjectID = "nQj-R8-H1h"; */
+"nQj-R8-H1h.placeholder" = "talk to me";
+
+/* Class = "IBUILabel"; text = "Yeah"; ObjectID = "ras-rV-7RU"; */
+"ras-rV-7RU.text" = "Yeah";
